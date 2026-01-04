@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FridgeChef AI",
+  "description": "Snap a photo of your fridge or pantry, and FridgeChef AI will instantly identify your ingredients and suggest delicious, easy-to-follow recipes you can make right now.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
